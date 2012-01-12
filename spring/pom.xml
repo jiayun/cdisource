@@ -24,7 +24,7 @@
 
 	<properties>
 		<spring.version>3.0.5.RELEASE</spring.version>
-		<aspectj.version>1.6.11.M2</aspectj.version>
+		<aspectj.version>1.6.12</aspectj.version>
 	</properties>
 
 	<repositories>
